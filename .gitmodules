@@ -1,0 +1,8 @@
+[submodule "motorola"]
+	path = motorola
+	url = git@github.com:FlokoROM-Motorola/local_manifests.git
+	branch = Floko3.0
+[submodule "oneplus"]
+	path = oneplus
+	url = git@github.com:FlokoROM-OnePlus/local_manifests.git
+	branch = Floko3.0
