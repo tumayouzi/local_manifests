@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <!-- motorola -->
-  <include name="motorola/evert.xml" />
+  <include name="local_manifests/motorola/evert.xml" />
 
   <!-- oneplus -->
-  <include name="oneplus/common.xml" />
-  <include name="oneplus/sm8150.xml" />
+  <include name="local_manifests/oneplus/common.xml" />
+  <include name="local_manifests/oneplus/sm8150.xml" />
 </manifest>
